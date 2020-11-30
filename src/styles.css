@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+h1,
+p {
+  text-align: center;
+}
+div {
+  background-color: rgb(179, 148, 148);
+  padding: 10px;
+}
+textarea {
+  background-color: whitesmoke;
+  width: 100%;
+  height: 100px;
+}
